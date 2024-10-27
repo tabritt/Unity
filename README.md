@@ -1,3 +1,3 @@
-# GaIMUnityTemplate
-Standard template for Unity projects with some basic features (Unity gitignore, GitLFS, etc.)
-To use this template, click the "Use this template" button at the top of the page to create a new repository on GitHub.  Then you can clone, pull, or otherwise use the repository as needed. If you are starting a new project, I'd suggest cloning this repository to your computer in your desired location, then creating your new Unity project in that folder.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7742b76b8d101b3143c5edf2d838d179939722a0a30b5a5c08dfcc3cd3fa437
+size 471
